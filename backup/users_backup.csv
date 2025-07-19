@@ -1,0 +1,5 @@
+id,username,password,email,role
+0,gabil,$2a$10$zluq7UgE/xpsT6Ygw8PL.e3c341mMFzkwpnSYAmVEDCKZIwT..oE.,gabil@gmail.com,USER
+0,hamitmizrak,$2a$10$pPQyiVv0T5HBlyUa0fQWzOPPsBZoNGpj3mGvUiajhHuWE4YX9BQAK,hamitmizrak@gmail.com,USER
+0,admin,$2a$10$G0TM8O0c2FJHGEHgMzMq2OxaKUIPBIzGbcFSX/gbV2coCsaKWuEhK,admin@gmail.com,ADMIN
+0,root,$2a$10$9SQMkvBis.BqxXaCz3XIxO.lbMK.2mwsfY890Qv4a1g2htTOUTZgW,root,ADMIN
